@@ -1,0 +1,22 @@
+{
+  "name": "OreKi",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "bot.js": "^0.0.1",
+    "request": "^2.88.2",
+    "map": "^1.0.1",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "embeds": "^2.11.6",
+    "ffmpeg": "^0.0.4",
+    "ytdl-core": "^3.2.1",
+    "opusscript": "^0.0.7",
+    "foreach-timeout": "^3.0.1"
+  }
+}
